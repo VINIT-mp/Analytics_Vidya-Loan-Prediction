@@ -15,4 +15,13 @@ The following Project is about predicting the factors influencing the approval o
 - numpy                     1.16.5|
 - jupyter                    1.0.0|
 
+# Overview :
+
+# Observations :
+
+# Feature Engineering : [include articls from investopedia]
+ 
+# Machine Learning Models :
+
+# Score
 
